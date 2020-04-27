@@ -1,2 +1,2 @@
-# tributepage
+# Tribute page
 Avicii tribute page
